@@ -14,4 +14,7 @@ npx hardhat run scripts/deploy.ts --network localhost
 
 # Interact with the contract
 npx hardhat run scripts/interact.ts --network localhost
+
+# Run tests
+npx hardhat test
 ```
